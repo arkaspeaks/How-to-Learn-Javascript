@@ -1,4 +1,8 @@
+//if -else statement ka funda
+
+
 // ghar ke andar 18+ film chal raha. kaun jayega andaar
+
 
 //if statement
 const age = 18;
