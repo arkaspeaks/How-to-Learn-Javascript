@@ -1,2 +1,3 @@
-// there are different tyoes of operators
+// there are different types of operators
 
+//no work tonight.. 
